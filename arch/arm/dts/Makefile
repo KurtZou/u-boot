@@ -688,7 +688,8 @@ dtb-$(CONFIG_MACH_SUN8I_R40) += \
 	sun8i-r40-bananapi-m2-ultra.dtb \
 	sun8i-r40-oka40i-c.dtb \
 	sun8i-t3-cqa3t-bv3.dtb \
-	sun8i-v40-bananapi-m2-berry.dtb
+	sun8i-v40-bananapi-m2-berry.dtb \
+	sun8i-t3-dragonresource.dtb
 dtb-$(CONFIG_MACH_SUN8I_V3S) += \
 	sun8i-s3-elimo-initium.dtb \
 	sun8i-s3-pinecube.dtb \
